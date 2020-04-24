@@ -5,7 +5,7 @@
 # VMware TKGI Workshop 
 ----------------------------------------------------------
 ## [Tanzu Kubernetes Grid - Workshop Agenda](https://drive.google.com/open?id=1pzVmFNv7hlpOGGuU-C5YopBR9VIRz6FU)
-(1:00PM to 5:00PM on 04/21/2020)
+(Time and Date TBD)
 
 - Introduction
      - Workshop Orientation
